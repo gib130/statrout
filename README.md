@@ -1,8 +1,8 @@
-Топология:
+РўРѕРїРѕР»РѕРіРёСЏ:
 
 ![img](https://github.com/gib130/statrout/blob/master/1.png)
 
-Результаты пингования: 
+Р РµР·СѓР»СЊС‚Р°С‚С‹ РїРёРЅРіРѕРІР°РЅРёСЏ: 
 
 ![img](https://github.com/gib130/statrout/blob/master/3.png)
 
@@ -16,6 +16,6 @@
 
 ![img](https://github.com/gib130/statrout/blob/master/8.png)
 
-Трассировка максимально удаленного узла: 
+РўСЂР°СЃСЃРёСЂРѕРІРєР° РјР°РєСЃРёРјР°Р»СЊРЅРѕ СѓРґР°Р»РµРЅРЅРѕРіРѕ СѓР·Р»Р°: 
 
 ![img](https://github.com/gib130/statrout/blob/master/2.png)
